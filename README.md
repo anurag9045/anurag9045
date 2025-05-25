@@ -1,4 +1,3 @@
-  👋 Hi, I’m @anurag9045
 - 👀 I’m interested in web devlopment..
 - 🌱 I’m currently learning fullstack..
 - 💞️ I’m looking to collaborate on ...
